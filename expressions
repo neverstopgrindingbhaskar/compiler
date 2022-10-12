@@ -1,0 +1,3 @@
+expression: term | terminal
+term: factor | terminal
+terminal: integer | + , -, *, / 
